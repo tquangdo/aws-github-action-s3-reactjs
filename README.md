@@ -49,4 +49,4 @@ git push
 ```
 - github > `Actions` > CICD's result is OK
 - s3 > dtq-bucket-bbucket-pline > index.html > click `Object URL`
-![res1](screenshots/res1.png)
+![res](screenshots/res.png)
